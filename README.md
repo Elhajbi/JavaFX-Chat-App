@@ -74,7 +74,7 @@ java net.example.chatappwebsockets.app.Client
 
 Interface utilisateur simple et responsive avec bulles de messages personnalisées.
 
-![Chat UI Screenshot](screenshots/screen.PNG)
+![Chat UI Screenshot](screenshoots/screen.PNG)
 
 ---
 
